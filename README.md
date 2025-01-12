@@ -1,4 +1,4 @@
-# Python-IEEE-Project-Titles-
+# Python-IEEE-Project-Titles
 Python IEEE Ptoject Titles With Code, Document And Video Tutorial.
 
 #### 1	ANOMALY DETECTION IN INDUSTRIAL MACHINERY USING IOT DEVICES AND MACHINE LEARNING
